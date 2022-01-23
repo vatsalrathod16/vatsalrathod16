@@ -1,3 +1,7 @@
+<div align="center">
+<img width="100%" height = "250px" src="https://pixabay.com/photos/charlotte-north-carolina-city-3994040/" alt="cover" />
+</div>
+
 <h1> HELLO WORLD; </h1>
 
 
