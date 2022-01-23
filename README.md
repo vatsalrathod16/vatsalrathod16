@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="UNC_Charlotte.jpeg" alt="cover" />
+<img width="80%" height = "300px" src="UNC_Charlotte.jpeg" alt="cover" />
 </div>
 
 <h1> HELLO WORLD; </h1>
