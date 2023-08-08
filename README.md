@@ -2,7 +2,7 @@
 <img width="70%" height = "400px" src="Charlotte.jpg" alt="cover" />
 </div>
 
-<h1> HELLO WORLD; </h1>
+<h1> HELLO WORLD </h1>
 
 
 Hi! My name is Vatsal Rathod. Thank You for taking the time to view my GitHub Profile 😄
